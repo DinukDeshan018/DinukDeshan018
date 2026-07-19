@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi 👋, I'm Dinuk Deshan
+Software Engineer | Spring Boot Developer | Full-Stack Web Developer
+PortfolioLinkedIn
+Email
 
-<!--
-**DinukDeshan018/DinukDeshan018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 About Me
+🎓 I’m an IT Undergraduate at the University of Vavuniya, Sri Lanka.
+💻 I specialize in Java, Spring Boot, and Angular to build scalable full-stack applications.
+🚀 I recently built and deployed an AI-Powered Resume Job Matcher on AWS using Docker & Gemini AI.
+🌱 I’m currently learning deeper Cloud Architecture (AWS) and advanced AI integrations.
+📫 How to reach me: 
+dinukdeshan12345@gmail.com
+🛠️ Tech Stack & Tools
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 GitHub Stats
+Dinuk's GitHub StatsTop Languages
+
+"Code is like humor. When you have to explain it, it’s bad." – Cory House
